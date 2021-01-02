@@ -1,4 +1,6 @@
-# Porikkha-The-Ultimate-Teacher-Solution
+## Team Number \<04> - \<Porikkha The Ultimate Teacher Solution>
+
+
 
 
 ### Project Overview
@@ -23,3 +25,26 @@ An overview of:
 * HTML CSS JAVASCRIPT........Node JS for back-end, MODEL VIEW CONTROLLER in VSCode
 
 * Once the backend and frontend is integrated one can login/Register to our app as a teacher who can create classrooms in the class hall and in each classroom one can create exam and share the code for the room which any student can access and finally join the room using web sockets ... then the user name and the pdf uploaded can be uploaded in our database using multer and finally the same would be visible to the teacher who can check in our app and update Mark's accordingly 
+
+
+
+
+
+### Screenshots
+
+![002](public/img/002.PNG)
+
+The Login/ Signup Page
+![001](public/img/001.PNG)
+The exam hall
+![003](public/004.PNG)
+The checking page. Teachers can simultaneously check paper and look at question paper side by side while marking the same.
+
+### Team Members
+List of team member names and email IDs with their contributions.
+|Member Name|Email|Contribution|
+|-----------|-----|------------|
+|Trishanku Sarma|trishanku_ug@cse.nits.ac.in|Backend|
+|Dhritiraj Borah|dhritiraj_ug@ece.nits.ac.in|Frontend|
+|Nihar Jyoti Basisth|nihar_ug@cse.nits.ac.in|Design|
+
