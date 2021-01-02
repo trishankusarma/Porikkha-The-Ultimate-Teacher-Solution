@@ -1,4 +1,4 @@
-## Team Number \<04> - \<Porikkha The Ultimate Teacher Solution>
+Porikkha The Ultimate Teacher Solution
 
 
 
