@@ -1,0 +1,63 @@
+body {
+    /* background-image: url(img/Classroom\ 1.png); */
+    background-color: #1a1919;
+
+    /* background-image: url(img/Classroom\ 1.png); */
+
+    background-size: cover;
+}
+#heading {
+    color: #a5a3a3;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-bottom: auto;
+    font-size: 7vh;
+}
+#mainbuttons {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-top: 23vh;
+}
+
+.joinexambutton {
+    text-align: center;
+    padding: 1.5% 3% 1.5% 3%;
+    margin: auto;
+    margin-bottom: 4%;
+    background-color: #252525;
+    color: rgb(255, 255, 255);
+    border: whitesmoke;
+    border: 10px;
+    border-radius: 1vw;
+    outline: none;
+    border: 2px solid #b9babb;
+    font-size: large;
+}
+.joinexambutton:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+#joinexamsubmit {
+    font-size: large;
+    text-align: center;
+    padding: 1.5% 3% 1.5% 3%;
+    margin: auto;
+    margin-bottom: 4%;
+    background-color: #7b7979;
+    color: rgb(255, 255, 255);
+    border: whitesmoke;
+    border: 10px;
+    border-radius: 1vw;
+    outline: none;
+    border: 2px solid #b9babb;
+}
+#joinexamsubmit:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+html {
+    overflow: hidden;
+}
